@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hanarlo
+- 👋 Hi, I’m Yuriy!
 - 👀 I’m interested in Android development and Java development
 - 🌱 I’m currently learning Spring framework
 - 📫 You can text me chichaevwork@gmail.com
