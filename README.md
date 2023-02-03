@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuriy!
-- 👀 I’m interested in Android and Java development
-- 🌱 I’m currently learning Spring framework, Java Web Development, C++
-- 🇺🇸 I know English at А2 level
+- 👀 I’m interested in Java development
+- 🌱 I do web development.
+- 🇺🇸 I know English at B2 level
 - 📫 Send me message chichaevwork@gmail.com
 
 <!---
