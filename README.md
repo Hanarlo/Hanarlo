@@ -20,9 +20,10 @@ Here are some of my skills as a junior Java developer:
 
 Check out some of my projects to see my skills in action:
 
-- 🚀 [Banking_JWD](link-to-project-1) - This is an exam project for a Java Web Development course certificate..
-- 🚀 [Banking_JWD_Modified](link-to-project-2) - This is a modified version of the exam project for practical experience with Spring, Hibernate, Html, Thymeleaf, MySQL.
-- 🚀 [Library](link-to-project-3) - This is a study project using Spring framework, Hybernate.
+- 🚀 [Banking_JWD](https://github.com/Hanarlo/JWD_Final_Project) - This is an exam project for a Java Web Development course certificate..
+- 🚀 [Banking_JWD_Modified](https://github.com/Hanarlo/JWD_Final_Project_Reworked) - This is a modified version of the exam project for practical experience with Spring, Hibernate, Html, Thymeleaf, MySQL.
+- 🚀 [Library](https://github.com/Hanarlo/Library) - This is a learning project to get hands-on expirience with the Spring framework, Hybernate.
+- 🚀 [Rest project](https://github.com/Hanarlo/Rest-project) - This is a learning project to get hands-on experience with the Spring Rest framework.
 
 ## Contact
 
